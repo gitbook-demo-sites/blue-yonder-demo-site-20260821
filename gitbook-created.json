@@ -1,0 +1,23 @@
+{
+  "org": "2DnmWBpytIOUKeXExonU",
+  "site": "site_Sa8zU",
+  "spaces": {
+    "HOME": "Bd37owXRT5XiknlqpzXk",
+    "PLATFORM": "fe43yRISpKLqiHu9LAxE",
+    "SOLUTIONS": "Q6IxysMabsFnjb1ftdzp",
+    "CONNECT": "zYytEr1vwaZKDzgS1tHw"
+  },
+  "sections": {
+    "HOME": "sitesc_8MMdU",
+    "PLATFORM": "sitesc_y66QL",
+    "SOLUTIONS": "sitesc_ZKK0l",
+    "CONNECT": "sitesc_qUUTW"
+  },
+  "site_spaces": {
+    "HOME": "sitesp_QDxnN",
+    "PLATFORM": "sitesp_d7fk8",
+    "SOLUTIONS": "sitesp_YTLdj",
+    "CONNECT": "sitesp_j6vPv"
+  },
+  "basename": "blue-yonder-docs-demo-20260821-095059"
+}
