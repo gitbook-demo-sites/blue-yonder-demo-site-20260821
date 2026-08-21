@@ -1,0 +1,89 @@
+{
+  "publish_status": 200,
+  "publish": {
+    "object": "site",
+    "id": "site_Sa8zU",
+    "type": "ultimate",
+    "appliedType": "ultimate",
+    "title": "Blue Yonder Documentation Hub",
+    "icon": {
+      "icon": {
+        "dark": "https://cdn.blueyonder.com/global/images/apple-touch-icon-180x180.png",
+        "light": "https://cdn.blueyonder.com/global/images/apple-touch-icon-180x180.png"
+      }
+    },
+    "basename": "blue-yonder-docs-demo-20260821-095059",
+    "visibility": "share-link",
+    "defaultLevel": null,
+    "permissions": {
+      "view": true,
+      "access": true,
+      "admin": true,
+      "installIntegration": true,
+      "viewAdaptiveSchema": true,
+      "editAdaptiveSchema": true
+    },
+    "published": true,
+    "createdAt": "2026-08-21T09:51:00.000Z",
+    "siteSpaces": 4,
+    "features": [
+      {
+        "id": "sites-share-links",
+        "plan": "premium",
+        "frozen": false
+      },
+      {
+        "id": "sites-ai-assistant",
+        "plan": "ultimate",
+        "frozen": false
+      },
+      {
+        "id": "sites-pdf-export",
+        "plan": "premium",
+        "frozen": false
+      },
+      {
+        "id": "sites-page-feedback",
+        "plan": "premium",
+        "frozen": false
+      },
+      {
+        "id": "sites-advanced-customization",
+        "plan": "premium",
+        "frozen": false,
+        "customizations": [
+          "header-logo",
+          "footer-logo",
+          "footer-links",
+          "footer-copyright",
+          "semantic-colors"
+        ]
+      },
+      {
+        "id": "sites-sections",
+        "plan": "ultimate",
+        "frozen": false
+      }
+    ],
+    "urls": {
+      "location": "/orgs/2DnmWBpytIOUKeXExonU/sites/site_Sa8zU",
+      "app": "https://app.gitbook.com/o/2DnmWBpytIOUKeXExonU/sites/site_Sa8zU",
+      "preview": "https://sites.gitbook.com/preview/site_Sa8zU/"
+    }
+  },
+  "share_status": 201,
+  "share": {
+    "object": "share-link",
+    "id": "2DLcN3UgxdVatfUkfVfb",
+    "createdAt": "2026-08-21T09:51:49.000Z",
+    "name": "Blue Yonder demo review",
+    "active": true,
+    "urls": {
+      "published": "https://enterprise-demos.gitbook.io/blue-yonder-docs-demo-20260821-095059/2DLcN3UgxdVatfUkfVfb/"
+    }
+  },
+  "published_url": "https://enterprise-demos.gitbook.io/blue-yonder-docs-demo-20260821-095059/2DLcN3UgxdVatfUkfVfb/",
+  "app_url": "https://app.gitbook.com/o/2DnmWBpytIOUKeXExonU/sites/site_Sa8zU",
+  "preview_url": "https://sites.gitbook.com/preview/site_Sa8zU/",
+  "repo": "https://github.com/gitbook-demo-sites/blue-yonder-demo-site-20260821"
+}

@@ -1,0 +1,22 @@
+{
+  "HOME": {
+    "status": 204,
+    "space": "Bd37owXRT5XiknlqpzXk",
+    "folder": "home"
+  },
+  "PLATFORM": {
+    "status": 204,
+    "space": "fe43yRISpKLqiHu9LAxE",
+    "folder": "platform-ai"
+  },
+  "SOLUTIONS": {
+    "status": 204,
+    "space": "Q6IxysMabsFnjb1ftdzp",
+    "folder": "planning-execution"
+  },
+  "CONNECT": {
+    "status": 204,
+    "space": "zYytEr1vwaZKDzgS1tHw",
+    "folder": "connect-partners"
+  }
+}

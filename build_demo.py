@@ -718,6 +718,8 @@ def customize(created: dict) -> dict:
         "git": {"showEditLink": False},
         "privacyPolicy": {"url": "https://blueyonder.com/privacy-policy"},
         "socialPreview": {"url": "https://edge.sitecorecloud.io/blueyonderie8e6-corporateefb0-prod6ccb-be06/media/project/blueyonder/shared/default-images/default-opengraph-image.png?h=360&iar=0&w=640"},
+        "socialAccounts": [],
+        "insights": {"trackingCookie": True},
     }
     _, result = api("PUT", f"/orgs/{ORG_ID}/sites/{created['site']}/customization", customization)
     write("gitbook-customization-result.json", json.dumps(result, indent=2))

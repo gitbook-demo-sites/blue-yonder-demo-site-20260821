@@ -1,0 +1,222 @@
+{
+  "updatedAt": "2026-08-21T09:51:47.000Z",
+  "title": "Blue Yonder Documentation Hub",
+  "localizedTitle": {},
+  "internationalization": {
+    "locale": "en"
+  },
+  "styling": {
+    "theme": "clean",
+    "primaryColor": {
+      "dark": "#5DB7FF",
+      "light": "#005EB8"
+    },
+    "infoColor": {
+      "dark": "#86C5FF",
+      "light": "#2B72FF"
+    },
+    "successColor": {
+      "dark": "#46D6D0",
+      "light": "#00A6A6"
+    },
+    "warningColor": {
+      "dark": "#FFD166",
+      "light": "#F4B000"
+    },
+    "dangerColor": {
+      "dark": "#FF8A8A",
+      "light": "#D64545"
+    },
+    "tint": {
+      "color": {
+        "dark": "#061D49",
+        "light": "#F4F8FB"
+      }
+    },
+    "corners": "circular",
+    "depth": "flat",
+    "links": "accent",
+    "font": "Inter",
+    "monospaceFont": "IBMPlexMono",
+    "icons": "regular",
+    "background": "plain",
+    "sidebar": {
+      "background": "filled",
+      "list": "default"
+    },
+    "codeTheme": {
+      "default": {
+        "light": "default-light",
+        "dark": "default-dark"
+      },
+      "openapi": {
+        "light": "default-light",
+        "dark": "default-dark"
+      }
+    },
+    "search": "prominent"
+  },
+  "favicon": {
+    "icon": {
+      "light": "https://cdn.blueyonder.com/global/images/apple-touch-icon-180x180.png",
+      "dark": "https://cdn.blueyonder.com/global/images/apple-touch-icon-180x180.png"
+    }
+  },
+  "header": {
+    "preset": "default",
+    "logo": {
+      "light": "https://edge.sitecorecloud.io/blueyonderie8e6-corporateefb0-prod6ccb-be06/media/project/blueyonder/shared/default-images/logo-blue.png?h=76&iar=0&w=520",
+      "dark": "https://edge.sitecorecloud.io/blueyonderie8e6-corporateefb0-prod6ccb-be06/media/project/blueyonder/shared/default-images/logo-blue.png?h=76&iar=0&w=520"
+    },
+    "links": [
+      {
+        "to": {
+          "kind": "space",
+          "space": "fe43yRISpKLqiHu9LAxE"
+        },
+        "links": [],
+        "style": "link",
+        "title": "Platform",
+        "localizedTitle": {}
+      },
+      {
+        "to": {
+          "kind": "space",
+          "space": "Q6IxysMabsFnjb1ftdzp"
+        },
+        "links": [],
+        "style": "link",
+        "title": "Planning & Execution",
+        "localizedTitle": {}
+      },
+      {
+        "to": {
+          "kind": "space",
+          "space": "zYytEr1vwaZKDzgS1tHw"
+        },
+        "links": [],
+        "style": "link",
+        "title": "Connect",
+        "localizedTitle": {}
+      },
+      {
+        "to": {
+          "url": "https://blueyonder.com",
+          "kind": "url"
+        },
+        "links": [],
+        "style": "button-secondary",
+        "title": "Blue Yonder",
+        "localizedTitle": {}
+      }
+    ]
+  },
+  "footer": {
+    "logo": {
+      "light": "https://edge.sitecorecloud.io/blueyonderie8e6-corporateefb0-prod6ccb-be06/media/project/blueyonder/shared/default-images/logo-blue.png?h=76&iar=0&w=520",
+      "dark": "https://edge.sitecorecloud.io/blueyonderie8e6-corporateefb0-prod6ccb-be06/media/project/blueyonder/shared/default-images/logo-blue.png?h=76&iar=0&w=520"
+    },
+    "groups": [
+      {
+        "links": [
+          {
+            "to": {
+              "kind": "space",
+              "space": "fe43yRISpKLqiHu9LAxE"
+            },
+            "title": "Platform & AI",
+            "localizedTitle": {}
+          },
+          {
+            "to": {
+              "kind": "space",
+              "space": "Q6IxysMabsFnjb1ftdzp"
+            },
+            "title": "Planning & Execution",
+            "localizedTitle": {}
+          },
+          {
+            "to": {
+              "kind": "space",
+              "space": "zYytEr1vwaZKDzgS1tHw"
+            },
+            "title": "Connect & Partners",
+            "localizedTitle": {}
+          }
+        ],
+        "title": "Demo paths",
+        "localizedTitle": {}
+      },
+      {
+        "links": [
+          {
+            "to": {
+              "url": "https://github.com/gitbook-demo-sites/blue-yonder-demo-site-20260821",
+              "kind": "url"
+            },
+            "title": "Source repo",
+            "localizedTitle": {}
+          },
+          {
+            "to": {
+              "url": "https://blueyonder.com",
+              "kind": "url"
+            },
+            "title": "Blue Yonder",
+            "localizedTitle": {}
+          }
+        ],
+        "title": "Sources",
+        "localizedTitle": {}
+      }
+    ],
+    "copyright": "Blue Yonder Documentation Hub demo - built for GitBook review."
+  },
+  "themes": {
+    "default": "light",
+    "toggeable": true
+  },
+  "trademark": {
+    "enabled": true
+  },
+  "feedback": {
+    "enabled": true
+  },
+  "ai": {
+    "mode": "assistant",
+    "suggestions": [
+      "How should a planner prepare for rollout?",
+      "Where do partners find API and certification guidance?",
+      "How does Blue Yonder Connect fit into the platform?",
+      "What governance model should documentation owners use?"
+    ]
+  },
+  "advancedCustomization": {
+    "enabled": true
+  },
+  "pageActions": {
+    "items": [
+      "assistant",
+      "markdown",
+      "external-ai",
+      "mcp",
+      "pdf"
+    ]
+  },
+  "pagination": {
+    "enabled": true
+  },
+  "privacyPolicy": {
+    "url": "https://blueyonder.com/privacy-policy"
+  },
+  "socialPreview": {
+    "url": "https://edge.sitecorecloud.io/blueyonderie8e6-corporateefb0-prod6ccb-be06/media/project/blueyonder/shared/default-images/default-opengraph-image.png?h=360&iar=0&w=640"
+  },
+  "socialAccounts": [],
+  "externalLinks": {
+    "target": "self"
+  },
+  "insights": {
+    "trackingCookie": true
+  }
+}
