@@ -1,7 +1,7 @@
 ---
-description: Transform planning, execution, commerce, and partner knowledge into one AI-ready documentation experience.
+description: Predict disruptions and course correct in real time with end-to-end visibility, AI-enhanced planning, and execution.
 icon: house
-cover: ../assets/blue-yonder-cover.svg
+cover: ../assets/why-blue-yonder-hero-01.jpg
 coverY: 0
 layout:
   width: wide
@@ -20,111 +20,143 @@ layout:
     visible: false
 ---
 
-# Welcome to Blue Yonder
+# Effective, efficient, end-to-end supply chains
+
+Predict disruptions and course correct in real time with end-to-end visibility and AI-enhanced planning and execution that turns your supply chain into a growth driver.
+
+<a href="#the-age-of-uncertainty" class="button secondary">The age of uncertainty</a> <a href="#its-time-to-evolve" class="button secondary">It's time to evolve</a> <a href="#why-with-blue-yonder" class="button primary">Why with Blue Yonder?</a>
+
+***
+
+## Thrive in an age of supply chain uncertainty
+
+### End-to-end planning, execution and collaboration on one data cloud
+
+{% columns %}
+{% column width="33.33333333333333%" %}
+#### Dynamic customers have high expectations
+
+Today's customers expect to buy what they want, when they want, through the channel they prefer, and at the best price.
+{% endcolumn %}
+
+{% column width="33.33333333333333%" %}
+#### Disconnected stakeholders operate inefficiently
+
+Supply chain decision makers operate in silos, hindered by manual processes and delayed collaboration.
+{% endcolumn %}
+
+{% column width="33.33333333333333%" %}
+#### Disparate systems hinder instead of help
+
+Legacy systems are isolated and inflexible. Real-time insight and action now determine success or failure.
+{% endcolumn %}
+{% endcolumns %}
 
 {% columns %}
 {% column width="50%" %}
-Plan, execute, and adapt across the end-to-end supply chain with one documentation hub for business users, implementation teams, developers, and partners.
+## $1.6 trillion
 
-<button type="button" class="button primary" data-action="ask" data-icon="gitbook-assistant">Ask the Blue Yonder docs</button>
-
-<button type="button" class="button secondary" data-action="ask" data-query="How do I prepare for a planning rollout?" data-icon="route">Planning rollout</button> <button type="button" class="button secondary" data-action="ask" data-query="Where do partners find API guidance?" data-icon="plug">Partner APIs</button> <button type="button" class="button secondary" data-action="ask" data-query="How does the platform use AI?" data-icon="brain-circuit">AI platform</button>
+worth of inventory wasted each year across industries.
 {% endcolumn %}
 
 {% column width="50%" %}
+## 70%
+
+of digital transformation projects fail.
+{% endcolumn %}
+{% endcolumns %}
+
+***
+
+## The new era of supply chain management
+
+### Modernize your supply chain from end to end
+
+<table data-view="cards" data-card-size="large"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody>
+<tr><td><h4><i class="fa-eye" style="color:$primary;"></i> <strong>Attain complete end-to-end supply chain visibility</strong></h4></td><td>Integrate data, plans, and insights so cross-functional teams can make accurate decisions, increase resilience, and minimize waste.</td><td><a href="https://app.gitbook.com/s/H7GIqXk9SW38FaGyX3Mc/foundation/data-cloud.md" class="button secondary">See the foundation</a></td><td><a href="../assets/why-blue-yonder-text-slider-01.png">../assets/why-blue-yonder-text-slider-01.png</a></td><td><a href="https://app.gitbook.com/s/H7GIqXk9SW38FaGyX3Mc/foundation/data-cloud.md">data-cloud</a></td></tr>
+<tr><td><h4><i class="fa-wand-magic-sparkles" style="color:$primary;"></i> <strong>Provide insightful predictions to cope with rapid changes</strong></h4></td><td>Use what-if scenarios, deep data, and AI to anticipate risk and prepare corrective action before service or cost are affected.</td><td><a href="https://app.gitbook.com/s/H7GIqXk9SW38FaGyX3Mc/ai-decisioning/agentic-supply-chain.md" class="button secondary">See the intelligence</a></td><td><a href="../assets/why-blue-yonder-text-slider-02.png">../assets/why-blue-yonder-text-slider-02.png</a></td><td><a href="https://app.gitbook.com/s/H7GIqXk9SW38FaGyX3Mc/ai-decisioning/agentic-supply-chain.md">agentic-supply-chain</a></td></tr>
+<tr><td><h4><i class="fa-cloud" style="color:$primary;"></i> <strong>Rely on a single source of truth to support complex operations</strong></h4></td><td>Connect data and processes across the organization through a common cloud platform for real-time collaboration.</td><td><a href="https://app.gitbook.com/s/Q6IxysMabsFnjb1ftdzp/workflows/exception-management.md" class="button secondary">See operations</a></td><td><a href="../assets/why-blue-yonder-text-slider-03.png">../assets/why-blue-yonder-text-slider-03.png</a></td><td><a href="https://app.gitbook.com/s/Q6IxysMabsFnjb1ftdzp/workflows/exception-management.md">exception-management</a></td></tr>
+</tbody></table>
+
+***
+
+## Supply chain reinvention starts with Blue Yonder
+
+### Blue Yonder provides a proven path to digital transformation
+
+{% columns %}
+{% column width="50%" %}
+![Composable Journeys](../assets/why-blue-yonder-text-media-01.png)
+
+### Adopt new business processes on your path, at your pace
+
+Blue Yonder Composable Journeys provide a personalized implementation and upgrade path so teams can transform at their own pace while avoiding disruption.
+
+<a href="https://app.gitbook.com/s/Q6IxysMabsFnjb1ftdzp/workflows/go-live-checklist.md" class="button secondary">See how it works</a>
+{% endcolumn %}
+
+{% column width="50%" %}
+![Single source of truth](../assets/why-blue-yonder-text-media-02.png)
+
+### Connect every action across your supply chain to a single source of truth
+
+End-to-end transparency helps teams understand how work flows across planning, execution, commerce, partners, and operations.
+
+<a href="https://app.gitbook.com/s/H7GIqXk9SW38FaGyX3Mc/foundation/data-cloud.md" class="button secondary">See what's possible</a>
+{% endcolumn %}
+{% endcolumns %}
+
+{% columns %}
+{% column width="50%" %}
+![AI and ML insights](../assets/why-blue-yonder-text-media-03.png)
+
+### Drive better decisions from AI and ML powered insights
+
+AI assistants help forecast demand, identify disruptions, and prepare for adverse events as the system learns from new data.
+
+<a href="https://app.gitbook.com/s/H7GIqXk9SW38FaGyX3Mc/ai-decisioning/decision-orchestration.md" class="button secondary">See the intelligence</a>
+{% endcolumn %}
+
+{% column width="50%" %}
+![End-to-end supply chain](../assets/why-blue-yonder-text-media-04.png)
+
+### Unlock productivity with a true end-to-end supply chain
+
+Solutions for every step in the supply chain, from planning to execution to commerce across the network, connected to one data cloud.
+
+<a href="https://app.gitbook.com/s/Q6IxysMabsFnjb1ftdzp/" class="button secondary">Discover interoperability</a>
+{% endcolumn %}
+{% endcolumns %}
+
+***
+
+## The world's most trusted partner
+
+### Join 3,000+ customers already benefiting
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody>
+<tr><td><h4><i class="fa-truck-fast" style="color:$primary;"></i></h4></td><td><strong>DHL</strong></td><td>Transportation optimization and network design story.</td><td><a href="https://blueyonder.com/customers">customers</a></td></tr>
+<tr><td><h4><i class="fa-industry" style="color:$primary;"></i></h4></td><td><strong>Carlsberg Group</strong></td><td>Digital-first transformation using transportation management.</td><td><a href="https://blueyonder.com/customers">customers</a></td></tr>
+<tr><td><h4><i class="fa-bag-shopping" style="color:$primary;"></i></h4></td><td><strong>Walgreens</strong></td><td>AI-based order management behind fast customer promises.</td><td><a href="https://blueyonder.com/customers">customers</a></td></tr>
+</tbody></table>
+
+![Gartner recognition](../assets/gartner-wide.jpg)
+
+## Adored by brands, recognized by analysts
+
+Blue Yonder has been named a Leader in three Gartner Magic Quadrant reports.
+
+***
+
+## Blue Yonder HUB demo paths
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody>
+<tr><td><h3><i class="fa-brain-circuit" style="color:$primary;"></i></h3></td><td><strong>Platform & AI</strong></td><td>Agentic supply chain, common data cloud, extensibility, and decision orchestration.</td><td><a href="https://app.gitbook.com/s/H7GIqXk9SW38FaGyX3Mc/">platform-ai</a></td></tr>
+<tr><td><h3><i class="fa-route" style="color:$primary;"></i></h3></td><td><strong>Planning & Execution</strong></td><td>Planning, warehouse, transportation, inventory, and exception workflows.</td><td><a href="https://app.gitbook.com/s/LcqiTNteUHkzjiTOUr8c/">planning-execution</a></td></tr>
+<tr><td><h3><i class="fa-plug" style="color:$primary;"></i></h3></td><td><strong>Connect & Partners</strong></td><td>Developer routes, partner onboarding, certification, release notes, and support.</td><td><a href="https://app.gitbook.com/s/EBF0LyiZSa2gJV3j6pkd/">connect-partners</a></td></tr>
+<tr><td><h3><i class="fa-life-ring" style="color:$primary;"></i></h3></td><td><strong>Help Center</strong></td><td>Common questions, escalation paths, and answer quality guidance.</td><td><a href="https://app.gitbook.com/s/m3QbZzRKTUSYEJM3D4oQ/">help-center</a></td></tr>
+</tbody></table>
+
 {% hint style="success" icon="gitbook" %}
-**A note from GitBook**
-
-This first-draft demo applies the Evolve docs pattern to Blue Yonder: brand-forward homepage, persona-aware routes, product cards, assistant-ready summaries, partner/developer paths, changelog governance, and clear migration notes for a real documentation rollout.
-
-<a href="https://enterprise-demos.gitbook.io/blue-yonder-hub/fqHcea1i68qptUXpLjSO/?visitor.persona=executive" class="button secondary" data-icon="chart-line">Executive</a> <a href="https://enterprise-demos.gitbook.io/blue-yonder-hub/fqHcea1i68qptUXpLjSO/?visitor.persona=planner" class="button secondary" data-icon="route">Planner</a> <a href="https://enterprise-demos.gitbook.io/blue-yonder-hub/fqHcea1i68qptUXpLjSO/?visitor.persona=developer" class="button secondary" data-icon="code">Developer</a> <a href="https://enterprise-demos.gitbook.io/blue-yonder-hub/fqHcea1i68qptUXpLjSO/?visitor.persona=partner" class="button secondary" data-icon="handshake-angle">Partner</a>
+This page now mirrors the public Why Blue Yonder marketing page more closely: hero, anchor-style journey, uncertainty section, modernization blocks, proven-path visuals, customer proof, analyst recognition, then the GitBook demo navigation.
 {% endhint %}
-{% endcolumn %}
-{% endcolumns %}
-
-{% if visitor.claims.unsigned.persona %}
-
-***
-
-## <i class="fa-sparkle" style="color:$info;"></i> Picked for you
-
-{% endif %}
-
-{% if visitor.claims.unsigned.persona === "executive" %}
-{% hint style="info" icon="chart-line" %}
-**Executive path.** Start with the platform narrative, governance model, and outcomes dashboard.
-{% endhint %}
-
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody>
-<tr><td><h3><i class="fa-brain-circuit" style="color:$primary;"></i></h3></td><td><strong>Platform & AI overview</strong></td><td>How the common platform ties forecasting, execution, network signals, and AI recommendations together.</td><td><a href="https://app.gitbook.com/s/H7GIqXk9SW38FaGyX3Mc/">platform-ai-overview</a></td></tr>
-<tr><td><h3><i class="fa-diagram-project" style="color:$primary;"></i></h3></td><td><strong>Decision orchestration</strong></td><td>Where recommendations, exceptions, and human approvals fit into supply chain operations.</td><td><a href="https://app.gitbook.com/s/H7GIqXk9SW38FaGyX3Mc/ai-decisioning/decision-orchestration.md">decision-orchestration</a></td></tr>
-<tr><td><h3><i class="fa-shield-check" style="color:$primary;"></i></h3></td><td><strong>Governance model</strong></td><td>Ownership, change requests, authenticated content, and audit-ready documentation controls.</td><td><a href="governance-model.md">governance-model</a></td></tr>
-</tbody></table>
-{% endif %}
-
-{% if visitor.claims.unsigned.persona === "planner" %}
-{% hint style="info" icon="route" %}
-**Planner path.** Focus on demand, supply, inventory, and exception management workflows.
-{% endhint %}
-
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody>
-<tr><td><h3><i class="fa-chart-line" style="color:$primary;"></i></h3></td><td><strong>Supply Chain Planning</strong></td><td>Integrated planning, demand and supply, production scheduling, and inventory optimization.</td><td><a href="https://app.gitbook.com/s/LcqiTNteUHkzjiTOUr8c/planning/supply-chain-planning.md">supply-chain-planning</a></td></tr>
-<tr><td><h3><i class="fa-triangle-exclamation" style="color:$primary;"></i></h3></td><td><strong>Exception workspace</strong></td><td>A sample operating model for resolving disruptions with network context.</td><td><a href="https://app.gitbook.com/s/LcqiTNteUHkzjiTOUr8c/workflows/exception-management.md">exception-workspace</a></td></tr>
-<tr><td><h3><i class="fa-clipboard-check" style="color:$primary;"></i></h3></td><td><strong>Go-live checklist</strong></td><td>Readiness criteria before enabling planners, operators, and partners.</td><td><a href="https://app.gitbook.com/s/LcqiTNteUHkzjiTOUr8c/workflows/go-live-checklist.md">go-live-checklist</a></td></tr>
-</tbody></table>
-{% endif %}
-
-{% if visitor.claims.unsigned.persona === "developer" %}
-{% hint style="info" icon="code" %}
-**Developer path.** Start with Connect, authentication, sandbox access, and API governance.
-{% endhint %}
-
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody>
-<tr><td><h3><i class="fa-plug" style="color:$primary;"></i></h3></td><td><strong>Blue Yonder Connect</strong></td><td>Partner APIs, connectors, certification, and data exchange patterns.</td><td><a href="https://app.gitbook.com/s/EBF0LyiZSa2gJV3j6pkd/developers/blue-yonder-connect.md">blue-yonder-connect</a></td></tr>
-<tr><td><h3><i class="fa-key" style="color:$primary;"></i></h3></td><td><strong>Authentication patterns</strong></td><td>API keys, OAuth-style authorization, sandboxes, and environment separation.</td><td><a href="https://app.gitbook.com/s/EBF0LyiZSa2gJV3j6pkd/developers/authentication.md">authentication-patterns</a></td></tr>
-<tr><td><h3><i class="fa-webhook" style="color:$primary;"></i></h3></td><td><strong>Events and webhooks</strong></td><td>How integration events should be documented for agents and humans.</td><td><a href="https://app.gitbook.com/s/EBF0LyiZSa2gJV3j6pkd/developers/events-and-webhooks.md">events-and-webhooks</a></td></tr>
-</tbody></table>
-{% endif %}
-
-{% if visitor.claims.unsigned.persona === "partner" %}
-{% hint style="info" icon="handshake-angle" %}
-**Partner path.** Position the hub as an authenticated partner experience for onboarding, certification, and co-selling.
-{% endhint %}
-
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody>
-<tr><td><h3><i class="fa-handshake" style="color:$primary;"></i></h3></td><td><strong>Partner onboarding</strong></td><td>Program overview, enablement checklist, and owner handoffs.</td><td><a href="https://app.gitbook.com/s/EBF0LyiZSa2gJV3j6pkd/partners/partner-onboarding.md">partner-onboarding</a></td></tr>
-<tr><td><h3><i class="fa-stamp" style="color:$primary;"></i></h3></td><td><strong>Certification workflow</strong></td><td>Sandbox setup, validation evidence, and publishing requirements.</td><td><a href="https://app.gitbook.com/s/EBF0LyiZSa2gJV3j6pkd/partners/certification-workflow.md">certification-workflow</a></td></tr>
-<tr><td><h3><i class="fa-life-ring" style="color:$primary;"></i></h3></td><td><strong>Partner support</strong></td><td>Support escalation paths and operational runbooks.</td><td><a href="https://app.gitbook.com/s/EBF0LyiZSa2gJV3j6pkd/partners/support.md">partner-support</a></td></tr>
-</tbody></table>
-{% endif %}
-
-***
-
-## One intelligent supply chain platform
-
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody>
-<tr><td><h3><i class="fa-brain-circuit" style="color:$primary;"></i></h3></td><td><strong>Platform & AI</strong></td><td>Agentic supply chain, shared data foundation, extensibility, and AI decisioning routes.</td><td><a href="https://app.gitbook.com/s/H7GIqXk9SW38FaGyX3Mc/">platform-ai</a></td></tr>
-<tr><td><h3><i class="fa-route" style="color:$primary;"></i></h3></td><td><strong>Planning & Execution</strong></td><td>Planning, warehouse, transportation, order promising, commerce, and operational playbooks.</td><td><a href="https://app.gitbook.com/s/LcqiTNteUHkzjiTOUr8c/">planning-execution</a></td></tr>
-<tr><td><h3><i class="fa-plug" style="color:$primary;"></i></h3></td><td><strong>Connect & Partners</strong></td><td>Developer portal, APIs, partner certification, and support workflows.</td><td><a href="https://app.gitbook.com/s/EBF0LyiZSa2gJV3j6pkd/">connect-partners</a></td></tr>
-<tr><td><h3><i class="fa-clipboard-list" style="color:$primary;"></i></h3></td><td><strong>Review notes</strong></td><td>Assumptions, sources, and the strongest feedback areas for the sales team.</td><td><a href="review-notes.md">review-notes</a></td></tr>
-</tbody></table>
-
-{% columns %}
-{% column width="66.66666666666666%" %}
-## Demo route
-
-1. Start on the homepage and show the Blue Yonder-branded search-first entry point.
-2. Switch between executive, planner, developer, and partner personas.
-3. Open Platform & AI to show strategic messaging, then jump to Planning & Execution for operator workflows.
-4. Finish in Connect & Partners to show how GitBook can house public docs, partner docs, and authenticated implementation guidance in one site.
-{% endcolumn %}
-
-{% column width="33.33333333333334%" %}
-#### What's new
-
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody>
-<tr><td><h3><i class="fa-sparkles" style="color:$primary;"></i></h3></td><td><strong>2026.2 release path</strong></td><td>Sample release-note structure for platform, planning, and connector changes.</td><td><a href="https://app.gitbook.com/s/EBF0LyiZSa2gJV3j6pkd/releases/release-notes.md">2026-2-release-path</a></td></tr>
-<tr><td><h3><i class="fa-robot" style="color:$primary;"></i></h3></td><td><strong>AI assistant prompts</strong></td><td>Starter questions tailored to supply chain users and partner developers.</td><td><a href="#welcome-to-blue-yonder">ai-assistant-prompts</a></td></tr>
-</tbody></table>
-{% endcolumn %}
-{% endcolumns %}
