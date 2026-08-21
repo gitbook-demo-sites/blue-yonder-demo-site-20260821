@@ -1,0 +1,27 @@
+{
+  "HOME": {
+    "status": 204,
+    "space": "UgQSOGhsXFfAeWpSX20A",
+    "folder": "home"
+  },
+  "PLATFORM": {
+    "status": 204,
+    "space": "H7GIqXk9SW38FaGyX3Mc",
+    "folder": "platform-ai"
+  },
+  "SOLUTIONS": {
+    "status": 204,
+    "space": "LcqiTNteUHkzjiTOUr8c",
+    "folder": "planning-execution"
+  },
+  "CONNECT": {
+    "status": 204,
+    "space": "EBF0LyiZSa2gJV3j6pkd",
+    "folder": "connect-partners"
+  },
+  "HELP": {
+    "status": 204,
+    "space": "m3QbZzRKTUSYEJM3D4oQ",
+    "folder": "help-center"
+  }
+}

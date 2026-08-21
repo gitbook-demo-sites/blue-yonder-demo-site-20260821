@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T09:51:47.000Z",
+  "updatedAt": "2026-08-21T09:53:26.000Z",
   "title": "Blue Yonder Documentation Hub",
   "localizedTitle": {},
   "internationalization": {
@@ -72,7 +72,7 @@
       {
         "to": {
           "kind": "space",
-          "space": "fe43yRISpKLqiHu9LAxE"
+          "space": "H7GIqXk9SW38FaGyX3Mc"
         },
         "links": [],
         "style": "link",
@@ -82,7 +82,7 @@
       {
         "to": {
           "kind": "space",
-          "space": "Q6IxysMabsFnjb1ftdzp"
+          "space": "LcqiTNteUHkzjiTOUr8c"
         },
         "links": [],
         "style": "link",
@@ -92,7 +92,7 @@
       {
         "to": {
           "kind": "space",
-          "space": "zYytEr1vwaZKDzgS1tHw"
+          "space": "EBF0LyiZSa2gJV3j6pkd"
         },
         "links": [],
         "style": "link",
@@ -122,7 +122,7 @@
           {
             "to": {
               "kind": "space",
-              "space": "fe43yRISpKLqiHu9LAxE"
+              "space": "H7GIqXk9SW38FaGyX3Mc"
             },
             "title": "Platform & AI",
             "localizedTitle": {}
@@ -130,7 +130,7 @@
           {
             "to": {
               "kind": "space",
-              "space": "Q6IxysMabsFnjb1ftdzp"
+              "space": "LcqiTNteUHkzjiTOUr8c"
             },
             "title": "Planning & Execution",
             "localizedTitle": {}
@@ -138,7 +138,7 @@
           {
             "to": {
               "kind": "space",
-              "space": "zYytEr1vwaZKDzgS1tHw"
+              "space": "EBF0LyiZSa2gJV3j6pkd"
             },
             "title": "Connect & Partners",
             "localizedTitle": {}
