@@ -37,7 +37,7 @@ Plan, execute, and adapt across the end-to-end supply chain with one documentati
 
 This first-draft demo applies the Evolve docs pattern to Blue Yonder: brand-forward homepage, persona-aware routes, product cards, assistant-ready summaries, partner/developer paths, changelog governance, and clear migration notes for a real documentation rollout.
 
-<a href="?visitor.persona=executive" class="button secondary" data-icon="chart-line">Executive</a> <a href="?visitor.persona=planner" class="button secondary" data-icon="route">Planner</a> <a href="?visitor.persona=developer" class="button secondary" data-icon="code">Developer</a> <a href="?visitor.persona=partner" class="button secondary" data-icon="handshake-angle">Partner</a>
+<a href="https://enterprise-demos.gitbook.io/blue-yonder-hub/fqHcea1i68qptUXpLjSO/?visitor.persona=executive" class="button secondary" data-icon="chart-line">Executive</a> <a href="https://enterprise-demos.gitbook.io/blue-yonder-hub/fqHcea1i68qptUXpLjSO/?visitor.persona=planner" class="button secondary" data-icon="route">Planner</a> <a href="https://enterprise-demos.gitbook.io/blue-yonder-hub/fqHcea1i68qptUXpLjSO/?visitor.persona=developer" class="button secondary" data-icon="code">Developer</a> <a href="https://enterprise-demos.gitbook.io/blue-yonder-hub/fqHcea1i68qptUXpLjSO/?visitor.persona=partner" class="button secondary" data-icon="handshake-angle">Partner</a>
 {% endhint %}
 {% endcolumn %}
 {% endcolumns %}
