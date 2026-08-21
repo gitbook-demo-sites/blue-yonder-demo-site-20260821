@@ -50,7 +50,7 @@ SPACES = [
         "folder": "planning-execution",
         "title": "Planning & Execution",
         "icon": "route",
-        "emoji": "1f5fa-fe0f",
+        "emoji": "1f5fa",
         "path": "planning-execution",
         "description": "Planning, warehouse, transportation, commerce, and operational workflows.",
     },
@@ -595,7 +595,7 @@ def replace_sentinels(space_ids: dict[str, str]) -> None:
 
 def create_site() -> dict:
     title = "Blue Yonder Documentation Hub"
-    basename = "blue-yonder-docs-demo"
+    basename = f"blue-yonder-docs-demo-{time.strftime('%Y%m%d-%H%M%S', time.gmtime())}"
     _, site = api("POST", f"/orgs/{ORG_ID}/sites", {"type": "ultimate", "title": title, "visibility": "share-link"})
     site_id = site["id"]
     api("PATCH", f"/orgs/{ORG_ID}/sites/{site_id}", {"title": title, "visibility": "share-link", "basename": basename})
